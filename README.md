@@ -747,3 +747,5 @@ int main()
 |opencv_videoio|use android MediaCodec or ios AVFoundation api instead|
 |opencv_videostab|do video stablization on powerful pc or server|
 |opencv_viz|vtk is not available on mobile, write your own data visualization routines|
+
+哈哈哈
